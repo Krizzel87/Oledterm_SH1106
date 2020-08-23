@@ -6,6 +6,7 @@ It is a python3 convert from
 https://github.com/satoshinm/oledterm
 
 You need a working luma.oled in python3.
+https://github.com/rm-hull/luma.oled
 
 To test the code the CLI must be booted from Pi.
 To test code type sh go.sh 
