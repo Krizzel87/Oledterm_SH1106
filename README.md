@@ -17,7 +17,7 @@ To set the oled terminal in Boot edit  /etc/rc.local
 
  Add 
 `
-sudo python3/home/pi/oledterm/oledterm.py &
+sudo python3/home/pi/oledterm/oledterm.py --display sh1106 --interface i2c --rotate 0 &
 `
 
 before 
